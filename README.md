@@ -1,7 +1,5 @@
 # Hi, I'm Muhammad Hassan Mughal 👋
 
-![Profile Banner](https://via.placeholder.com/1200x300?text=Full-Stack+Developer) {/* Replace with actual banner image if available */}
-
 I'm a Full-Stack Developer based in Rawalpindi, Pakistan, with a passion for building scalable web and mobile applications. I specialize in modern technologies like Next.js, React Native, and Supabase, focusing on AI-driven features, real-time apps, SaaS platforms, and seamless user experiences. I'm always optimizing for performance and clean architecture.
 
 - 🌍 Location: Rawalpindi, Pakistan

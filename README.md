@@ -1,151 +1,146 @@
-# Hi, I'm Muhammad Hassan Mughal 👋
+# Hi there, I'm Hassan 👋
 
-I'm a Full-Stack Developer based in Rawalpindi, Pakistan, with a passion for building scalable web and mobile applications. I specialize in modern technologies like Next.js, React Native, and Supabase, focusing on AI-driven features, real-time apps, SaaS platforms, and seamless user experiences. I'm always optimizing for performance and clean architecture.
+<div align="center">
+  
+  **Full-Stack Developer | Building Scalable Web & Mobile Applications**
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hassan814/)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadhassanmughal47@gmail.com)
+  [![Location](https://img.shields.io/badge/Rawalpindi-Pakistan-green?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Rawalpindi,Pakistan)
 
-- 🌍 Location: Rawalpindi, Pakistan
-- 📫 Email: muhammadhassanmughal47@gmail.com
-- 🔗 LinkedIn: [linkedin.com/in/hassan814/](https://linkedin.com/in/hassan814/)
-- 🐙 GitHub: [github.com/oye-hunter](https://github.com/oye-hunter)
+</div>
 
-## About Me
+## 🚀 About Me
 
-Full-Stack Developer with experience building scalable web and mobile applications using Next.js, Supabase, React Native, and modern backend tools. Skilled in AI-driven features, real-time apps, SaaS dashboards, Chrome extensions, and Stripe-based payment systems. Focused on clean architecture, performance optimization, and intuitive user experiences.
+I'm a Full-Stack Developer from Rawalpindi, Pakistan, passionate about building scalable web and mobile applications. I specialize in modern JavaScript frameworks, real-time systems, and AI-driven features. With experience across multiple companies and domains, I focus on clean architecture, performance optimization, and creating intuitive user experiences.
 
-## Skills
+- 🎓 Bachelor's in Computer Science from Sir Syed CASE Institute of Technology
+- 💼 Currently working at **Tavren** as a Full-Stack Developer
+- 🔭 Building SaaS platforms, marketplace apps, and Chrome extensions
+- 🌱 Exploring advanced patterns in Next.js, React Native, and AI integration
+- ⚡ Fun fact: I've built everything from trucking marketplaces to AI fitness coaches
 
-- **Frontend**: Next.js, TypeScript, React Native, Flutter, TailwindCSS, Zustand, ContextAPI, Tanstack Query
-- **Backend/APIs**: Python, C#, Apollo, GraphQL APIs, REST APIs
-- **Databases**: Supabase, Firebase, MySQL, PostgreSQL, NeonDB
-- **Tools & Others**: Git/GitHub, Stripe, Better-auth
+## 🛠️ Tech Stack
 
-## Education
+### Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
-- **Bachelor’s in Computer Science**  
-  Sir Syed CASE Institute of Technology, B-17, Islamabad  
-  Graduated: October 2021 - July 2025
+### Backend & Database
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![NeonDB](https://img.shields.io/badge/NeonDB-00E699?style=flat&logo=neon&logoColor=white)
 
-## Experience
+### Tools & Platforms
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat&logo=stripe&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=flat&logo=drizzle&logoColor=black)
 
-### Full-Stack Developer (Part Time)  
-**Tavren, Rawalpindi (Onsite)**  
-September 2024 - Present  
+### State Management & APIs
+`Zustand` • `Context API` • `Tanstack Query` • `Apollo Client` • `REST APIs` • `SWR` • `Better-auth`
 
-- Built a SaaS platform with Next.js + Supabase, featuring RBAC and a multi-branch dashboard.  
-- Built a React Native (Expo) marketplace app for trucker service requests with real-time vendor quotes using Supabase.  
-- Integrated Stripe escrow payments and Google Location APIs for secure transactions and live tracking.
+## 💼 Professional Experience
 
-### Junior Full-Stack Developer  
-**Silverthread Labs, Islamabad (Onsite)**  
-June 2025 – November 2025  
+### 🏢 Tavren - Full-Stack Developer *(Sept 2024 - Present)*
+Building SaaS platforms and marketplace applications with real-time features
+- Multi-branch dashboard with RBAC using Next.js + Supabase
+- React Native marketplace for trucker services with real-time vendor quotes
+- Integrated Stripe escrow payments and Google Location APIs
 
-- Fixed API fetching bugs and improved UI components, resulting in a smoother and more reliable user experience.  
-- Refactored and cleaned the codebase by removing unused code, optimizing logic, and improving overall performance.  
-- Collaborated with a client to develop a Chrome extension that provides clothing size recommendations based on user input.
+### 🏢 Silverthread Labs - Junior Full-Stack Developer *(June 2025 - Nov 2025)*
+Enhancing user experience and building Chrome extensions
+- Fixed critical API bugs and improved UI components
+- Developed Chrome extension for AI-powered clothing size recommendations
+- Optimized codebase performance through refactoring
 
-### Junior Full-Stack Developer  
-**AlimcoSoft Pvt. Ltd, Islamabad (Onsite)**  
-February 2025 - April 2025  
+### 🏢 AlimcoSoft - Junior Full-Stack Developer *(Feb 2025 - Apr 2025)*
+Full-stack development with GraphQL and modern frameworks
+- Built complex multi-step forms with auto-save using Apollo Client
+- Implemented Firebase and Supabase authentication systems
+- Created SaaS dashboards with role-based access control
+- Integrated Intercom real-time chat support in React Native
 
-- Built scalable web and mobile apps using Next.js, React Native, GraphQL, and TypeScript.  
-- Developed complex multi-step forms with auto-save features using Apollo Client and GraphQL.  
-- Integrated Firebase and Supabase for authentication, data storage, and file uploads.  
-- Created full-featured SaaS dashboards and eCommerce apps with role-based access control.  
-- Implemented real-time chat support service of Intercom in a React Native app.
+## 🌟 Featured Projects
 
-### Frontend Developer (Internship)  
-**Grace Technologies, Rawalpindi (Onsite)**  
-October 2024 - January 2025  
+### 📧 [Relay](https://github.com/yourusername/relay) - Static Email Inbox
+Modern email inbox built with Next.js 16, BetterAuth, and Neon PostgreSQL
+- **Stack**: Next.js, TypeScript, BetterAuth, NeonDB, Drizzle ORM, shadcn/ui
+- Route protection using middleware and proxy patterns
+- Type-safe database queries with Drizzle ORM
 
-- Developed responsive web applications using React.js, focusing on real-time tracking and user-friendly interfaces.  
-- Rebuilt the UI of a mobile tracking app with React.js, Material UI, aligning it with the GTL project's design system.  
-- Built a book marketplace platform with tutor service features, integrating the React.js frontend with a Node.js backend.
+### 💪 [Fit-Fusion](https://github.com/yourusername/fit-fusion) - AI Fitness Platform
+AI-powered fitness app with personalized workout and diet plans
+- **Stack**: Next.js, Supabase, TypeScript, KNN Algorithm
+- Real-time community features for sharing workouts
+- Health metric analysis for goal-based recommendations
 
-### Frontend Developer (Internship)  
-**Digital Empowerment Network (Remote)**  
-July 2024 (1 month)  
+### 🚚 Fleet Companion App - Service Marketplace
+Real-time marketplace connecting truckers with service vendors
+- **Stack**: React Native (Expo), Supabase, Stripe, Google APIs
+- Escrow-based payment system for secure transactions
+- Real-time quotes and location tracking with Supabase Realtime
 
-- Developed responsive web applications using React.js, focusing on real-time tracking and user-friendly interfaces.  
-- Rebuilt the UI of a mobile tracking app with React.js, Material UI, aligning it with the GTL project's design system.
+### 👗 Size Queen - Chrome Extension
+AI-powered size recommendation for online shopping
+- **Stack**: React (Vite), Supabase, Stripe, OpenAI
+- Scrapes product pages to extract size charts
+- Generates accurate size recommendations using AI
+- Subscription management with Stripe
 
-### Frontend Developer (Internship)  
-**Naviquis, Islamabad (Onsite)**  
-June 2023 - September 2023  
+### 🏫 School Management System
+Full-featured SaaS for educational institutions
+- **Stack**: Next.js, Supabase, S3
+- Role-based access control (Admin, Teacher, Student)
+- Manages admissions, enrollments, assessments, and fees
 
-- Worked on fundamentals of website development.
+### 📚 [Book Brary](https://github.com/yourusername/book-brary) - Book Marketplace
+MERN stack marketplace for books and tutor services
+- **Stack**: MongoDB, Express, React, Node.js
+- Complete book sales and tutor listing functionality
 
-## Projects
+## 📊 GitHub Stats
 
-### Relay  
-*(Next.js + Typescript + better-auth + NeonDB + Drizzle)*  
-[Link](https://github.com/oye-hunter/relay) {/* Update with actual link */}  
+<div align="center">
+  
+  ![Hassan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=oye-hunter&show_icons=true&theme=radical&hide_border=true)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oye-hunter&layout=compact&theme=radical&hide_border=true)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oye-hunter&theme=radical&hide_border=true)
 
-- Built Project Relay, a simple static email inbox using Next.js 16.  
-- Used TailwindCSS + shadcn/ui for learning modern full-stack development.  
-- Implemented authentication with BetterAuth and route protection using middleware.ts (proxy.ts).  
-- Integrated Neon PostgreSQL with Drizzle ORM for schema definition, migrations, and type-safe queries.
+</div>
 
-### Fit-Fusion  
-*(Nextjs + Supabase + Typescript)*  
-[Link](https://github.com/oye-hunter/fit-fusion) {/* Update with actual link */}  
+## 🎯 What I'm Working On
 
-- Built an AI fitness web app that generates personalized workout and diet plans using KNN-based recommendations.  
-- Implemented the frontend in Next.js with Supabase for auth, storage, and realtime messages.  
-- Developed a community feature for sharing workouts.  
-- Integrated health metric analysis for accurate, goal-based diet recommendations.  
-- Designed a seamless experience for users to create custom workout plan of their will.
+- 🔨 Building scalable SaaS platforms with Next.js and Supabase
+- 🤖 Integrating AI capabilities into web applications
+- 📱 Developing cross-platform mobile apps with React Native
+- 🎨 Exploring modern UI/UX patterns with shadcn/ui
+- ⚡ Optimizing application performance and user experience
 
-### Fleet Companion App  
-*(Expo React Native + Supabase + Stripe + Google API)*  
+## 🤝 Let's Connect
 
-- Built a service marketplace where truckers post requests and vendors submit quotes in real time.  
-- Developed an escrow-based payment system using Stripe for secure transactions.  
-- Integrated Google Location APIs for real-time tracking of trucks and service providers.  
-- Implemented Supabase Realtime for instant messaging, live quotes, live location handling and continuous request updates.
+I'm always open to interesting conversations and collaboration opportunities!
 
-### Size Queen | Chrome Extension  
-*(React.js (Vite) + Supabase + Stripe)*  
+- 💼 LinkedIn: [linkedin.com/in/hassan814](https://linkedin.com/in/hassan814/)
+- 📧 Email: muhammadhassanmughal47@gmail.com
+- 📱 Phone: (+92) 321-5211814
 
-- Worked on a Chrome extension using React (Vite) and Supabase that scrapes clothing product pages to extract product size charts and measurements.  
-- Used OpenAI to analyze user-provided body measurements and generate accurate size recommendations.  
-- Integrated Stripe subscriptions to manage paid access for users.
+---
 
-### EZLY  
-*(Next.js + Neon + Drizzle + SWR)*  
+<div align="center">
+  
+  **💡 "Building the future, one commit at a time"**
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=oye-hunter&color=brightgreen&style=flat-square)
 
-- Optimized codebases by using SWR for efficient API caching and improving UI styling for better user experience.
-
-### Device Registration Portal  
-*(Next.js + GraphQL)*  
-
-- Built a stepper-based complex registration form in Next.js using GraphQL and Apollo Client, enabling incremental user data saving and allowing users to resume progress after exiting.  
-- Used Zustand for state management and local storage to persist the JWT token for user authentication and session continuity.
-
-### E-Commerce Store with Chat Support  
-*(React Native + Firebase + Intercom)*  
-
-- Built a mobile e-commerce app using React Native Expo and Firebase with full CRUD functionality.  
-- Authenticated users can manage their own products while browsing others.  
-- Also integrated Intercom chat support in the React Native CLI version to enable real-time customer communication.
-
-### School Website & Management System  
-*(Next.js + Supabase)*  
-
-- Developed a school website with an admission form and S3 storage for document uploads.  
-- Built a full-featured SaaS with Role-Based Access Control (admin, student, teacher) using Supabase to manage applications, enrollments, assessments, fees, and course data.
-
-### Book Brary  
-*(MERN)*  
-[Link](https://github.com/oye-hunter/book-brary) {/* Update with actual link */}  
-
-- Created a React-based frontend for a book marketplace and tutor services app, with Node.js backend API integration for core features like book sales and tutor listings.
-
-## Connect with Me
-
-Feel free to reach out if you'd like to collaborate on a project or just chat about tech!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hassan814/)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oye-hunter)
-
-{/* GitHub Stats - Optional, if using MDX in a supported environment */}  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oye-hunter&show_icons=true&locale=en&layout=compact" alt="oye-hunter" /></p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oye-hunter&layout=compact&theme=radical" alt="Top Languages" />
+</div>

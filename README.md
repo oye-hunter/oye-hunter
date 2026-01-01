@@ -147,5 +147,5 @@ Feel free to reach out if you'd like to collaborate on a project or just chat ab
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oye-hunter)
 
 {/* GitHub Stats - Optional, if using MDX in a supported environment */}  
-<img src="https://github-readme-stats.vercel.app/api?username=oye-hunter&show_icons=true&theme=radical" alt="GitHub Stats" />  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oye-hunter&show_icons=true&locale=en&layout=compact" alt="oye-hunter" /></p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oye-hunter&layout=compact&theme=radical" alt="Top Languages" />
